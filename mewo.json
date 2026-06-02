@@ -1,7 +1,6 @@
 {
     "name": "mewo",
     "description": "spots for comm hvh",
-    "update_timestamp": 1748899200,
     "locations": {
         "de_aztec": [
         {
@@ -36082,6 +36081,20 @@
             "recovery_yaw": -40.0,
             "run": 19.0,
             "run_yaw": 40.0
+          }
+        },
+        {
+          "name": ["Stairs", "Ladder Room"],
+          "weapon": "weapon_molotov",
+          "position": [-467.1058044433594, -1573.75146484375, -39.96875],
+          "viewangles": [12.04399299621582, 106.11854553222656],
+          "grenade": {
+            "delay": 2.0,
+            "jump": true,
+            "recovery_jump": true,
+            "recovery_yaw": -3.0,
+            "run": 1.0,
+            "run_yaw": 3.0
           }
         }
         ],
