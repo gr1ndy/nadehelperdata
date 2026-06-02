@@ -2228,7 +2228,8 @@
                 "Unnamed",
                 "Car R"
             ],
-            "weapon": "weapon_hegrenade"
+            "weapon": "weapon_hegrenade",
+            "description": " "
         },
         {
             "grenade": {
