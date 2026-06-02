@@ -36015,6 +36015,46 @@
                 "Fakeduck"
             ],
             "weapon": "weapon_molotov"
+        },
+        {
+          "name": ["Scaffodling", "T Roof"],
+          "weapon": "weapon_hegrenade",
+          "position": [-2.52652907371521, -1793.04736328125, -63.17536926269531],
+          "viewangles": [5.17997932434082, 45.593994140625],
+          "grenade": {
+            "delay": 5.0,
+            "jump": true,
+            "recovery_jump": true,
+            "recovery_yaw": -90.0,
+            "run": 19.0,
+            "run_speed": true
+          }
+        },
+        {
+         "name": ["Scaffolding", "T Roof"],
+         "weapon": "weapon_molotov",
+         "position": [-2.582637310028076, -1793.0924072265625, -63.175376892089844],
+         "viewangles": [0.7259660959243774, 45.92380905151367],
+         "grenade": {
+           "delay": 5.0,
+           "jump": true,
+           "recovery_jump": true,
+           "recovery_yaw": -90.0,
+           "run": 19.0,
+           "run_speed": true
+         }
+        },
+        {
+          "name": ["Top Mid", "Palace Door"],
+          "weapon": "weapon_molotov",
+          "position": [243.07408142089844, -635.121826171875, -87.96875],
+          "viewangles": [0.9558734893798828, -34.001678466796875],
+          "grenade": {
+            "delay": 8.0,
+            "jump": true,
+            "recovery_jump": true,
+            "recovery_yaw": 0.0
+          }
         }
         ],
         "de_dust2": [
