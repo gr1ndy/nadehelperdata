@@ -36055,6 +36055,34 @@
             "recovery_jump": true,
             "recovery_yaw": 0.0
           }
+        },
+        {
+          "name": ["Catwalk", "Short Hold"],
+          "weapon": "weapon_molotov",
+          "position": [-361.1231689453125, -536.7493286132813, -139.96875],
+          "viewangles": [11.713863372802734, 135.58921813964844],
+          "grenade": {
+            "delay": 5.0,
+            "jump": true,
+            "recovery_jump": true,
+            "recovery_yaw": -40.0,
+            "run": 19.0,
+            "run_yaw": 40.0
+          }
+        },
+        {
+          "name": ["Catwalk", "Short Push"],
+          "weapon": "weapon_hegrenade",
+          "position": [-382.58013916015625, -534.1854858398438, -139.96875],
+          "viewangles": [7.951911926269531, 131.431396484375],
+          "grenade": {
+            "delay": 5.0,
+            "jump": true,
+            "recovery_jump": true,
+            "recovery_yaw": -40.0,
+            "run": 19.0,
+            "run_yaw": 40.0
+          }
         }
         ],
         "de_dust2": [
